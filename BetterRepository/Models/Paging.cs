@@ -85,5 +85,44 @@ namespace BetterRepository.Models
                     )).ToArray()
             );
         }
+        //public static PagingDescriptor Page(this IList list, int pageSize)
+        //{
+        //    if (list == null)
+        //    {
+        //        throw new ArgumentNullException(nameof(list));
+        //    }
+
+        //    if (pageSize <= 0)
+        //    {
+        //        pageSize = list.Count;
+        //    }
+
+        //    int totalItems = list.Count;
+
+        //    if (totalItems <= 0)
+        //    {
+        //        return new PagingDescriptor(pageSize, 0, Array.Empty<PageBoundry>());
+        //    }
+
+        //    int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+
+        //    var pageBoundaries = Enumerable.Range(0, totalPages)
+        //        .Select(pageIndex =>
+        //        {
+        //            int startIndex = pageIndex * pageSize;
+        //            int endIndex = Math.Min(startIndex + pageSize - 1, totalItems - 1);
+
+        //            if (endIndex < 0)  // Ensure endIndex is not negative
+        //            {
+        //                endIndex = 0;
+        //            }
+
+        //            return new PageBoundry(startIndex, endIndex);
+        //        })
+        //        .ToArray();
+
+        //    return new PagingDescriptor(pageSize, totalPages, pageBoundaries);
+        //}
+
     }
 }

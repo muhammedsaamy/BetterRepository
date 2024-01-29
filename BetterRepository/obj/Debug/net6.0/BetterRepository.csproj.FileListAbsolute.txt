@@ -1,0 +1,15 @@
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\bin\Debug\net6.0\BetterRepository.deps.json
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\bin\Debug\net6.0\BetterRepository.dll
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\bin\Debug\net6.0\BetterRepository.pdb
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.csproj.AssemblyReference.cache
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.AssemblyInfoInputs.cache
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.AssemblyInfo.cs
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.csproj.CoreCompileInputs.cache
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.dll
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\refint\BetterRepository.dll
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.pdb
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\ref\BetterRepository.dll
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\bin\Debug\net6.0\BetterRepository.exe
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\bin\Debug\net6.0\BetterRepository.runtimeconfig.json
+E:\iti\Freelance\BetterRepository\BetterRepository\BetterRepository\obj\Debug\net6.0\BetterRepository.genruntimeconfig.cache

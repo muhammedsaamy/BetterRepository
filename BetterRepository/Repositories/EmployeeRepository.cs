@@ -19,12 +19,12 @@ namespace BetterRepository.Repositories
         public static void Reset()
         {
             Employees.Clear();
-            Employees.Add(new Employee(0, "Ahmed"));
-            Employees.Add(new Employee(1, "Tarek"));
-            Employees.Add(new Employee(2, "Patrick"));
+            Employees.Add(new Employee(0, "Mo"));
+            Employees.Add(new Employee(1, "Samy"));
+            Employees.Add(new Employee(2, "Say"));
             Employees.Add(new Employee(3, "Mohamed"));
             Employees.Add(new Employee(4, "Sara"));
-            Employees.Add(new Employee(5, "Ali"));
+            Employees.Add(new Employee(5, "Mu"));
         }
     }
 
